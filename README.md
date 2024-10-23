@@ -80,13 +80,33 @@ Usado para resolver equações diferenciais ordinárias, aproximando a solução
 
 Técnicas mais avançadas para resolver EDOs, oferecendo maior precisão do que o método de Euler.
 
-### 13. Regra do Trapézio 📊
+### 13. Método de Lagrange 📊
+
+Usa a interpolação polinomial para encontrar valores de uma função em pontos não conhecidos, com base em valores conhecidos.
+
+### 14. Método de Newton 📈
+
+Uma técnica de interpolação que utiliza derivadas para encontrar uma aproximação de uma função em um ponto.
+
+### 15. Regra do Trapézio 📊
 
 Método simples para aproximação de integrais, calculando a área sob a curva como uma série de trapézios.
 
-### 14. Regras de Simpson 1/3 e 3/8 📉
+### 16. Regras de Simpson 1/3 e 3/8 📉
 
 Métodos de integração numérica que oferecem maior precisão ao usar polinômios de grau 2 e 3, respectivamente.
+
+### 17. Cálculo do Determinante 🔍
+
+Algoritmo que calcula o determinante de uma matriz, essencial para determinar a inversibilidade da matriz e propriedades de sistemas lineares.
+
+### 18. Cálculo de Condicionamento 🔄
+
+Avaliação da estabilidade de um sistema linear, medindo como pequenas mudanças nas entradas podem afetar a solução.
+
+### 19. Soma de Riemann 📈
+
+Utiliza divisões em subintervalos para aproximar a integral de uma função, servindo como uma base para outros métodos de integração.
 
 ## Instalação e Uso
 
@@ -107,4 +127,4 @@ Cada pacote contém suas respectivas implementações e exemplos de uso.
 
 ## Agradecimentos 🙏
 
-Agradeço a todos que contribuíram para o aprendizado nesta disciplina de Cálculo Numérico e pela oportunidade de explorar esses métodos valiosos!
+Agradeço a todos, principalmente ao professor [Paulo César] que contribuíram para o aprendizado nesta disciplina de Cálculo Numérico e pela oportunidade de explorar esses métodos valiosos!
