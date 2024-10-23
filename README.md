@@ -20,15 +20,15 @@ Este repositório contém implementações de métodos numéricos para resolver 
 
 ### Unidade II: Resolução de Sistemas Lineares ⚖️
 
-- **Métodos Diretos**: Eliminação de Gauss e Fatoração LU.
-- **Métodos Iterativos**: Método de Gauss-Jacobi e Gauss-Seidel.
-- **Interpolação**: Polinomial, Interpolação Linear, Fórmulas Interpolatórias de Lagrange e Newton, Interpolação Inversa.
+- **Métodos Diretos**: Decomposição LU, Determinante, Método de Cholesky, Método Gaussiano.
+- **Métodos Iterativos**: Método de Gauss-Jacobi, Método de Gauss-Seidel.
+- **Número de Condicionamento**: Avaliação da sensibilidade de um sistema linear às mudanças nos dados de entrada.
 
 ### Unidade III: Aproximação de Funções e Integração Numérica ✏️
 
 - **Aproximação de Funções**: Método dos Mínimos Quadrados, aproximações linear, polinomial, potência, exponencial e logarítmica.
-- **Integração Numérica**: Fórmulas de Newton-Cotes, Regra dos Trapézios, 1/3 de Simpson, 3/8 de Simpson e erros limitantes na integração numérica.
-- **Solução Numérica de EDO**: Problema de Valor Inicial, Método de Euler.
+- **Integração Numérica**: Soma de Riemann, Regra do Trapézio, Regra de Simpson 1/3, Regra de Simpson 3/8, e erros limitantes na integração numérica.
+- **Solução Numérica de EDO**: Problema de Valor Inicial, Método de Euler, Métodos de Runge-Kutta (2ª e 4ª ordens), Método de Lagrange e Método de Newton.
 
 ## Métodos Implementados
 
@@ -51,6 +51,42 @@ Utiliza a derivada da função para iterar a partir de uma aproximação inicial
 ### 5. Método do Ponto Fixo 🔄
 
 Reformula a função na forma \( x = g(x) \) e itera a partir de uma aproximação inicial.
+
+### 6. Decomposição LU 🔍
+
+Método que decompõe uma matriz em duas matrizes triangulares, facilitando a resolução de sistemas lineares.
+
+### 7. Método de Cholesky 🛠️
+
+Um caso especial de decomposição LU que é usado para matrizes simétricas e definidas positivas.
+
+### 8. Método de Gaussiano ⚖️
+
+Utiliza operações elementares em linhas para transformar a matriz do sistema linear em uma forma escalonada.
+
+### 9. Método de Gauss-Jacobi 🌀
+
+Um método iterativo que usa aproximações anteriores para calcular novas soluções.
+
+### 10. Método de Gauss-Seidel 🔄
+
+Uma variante do método de Gauss-Jacobi que atualiza as soluções imediatamente após calcular uma nova aproximação.
+
+### 11. Método de Euler ⏱️
+
+Usado para resolver equações diferenciais ordinárias, aproximando a solução ao longo de pequenos passos.
+
+### 12. Métodos de Runge-Kutta 📈
+
+Técnicas mais avançadas para resolver EDOs, oferecendo maior precisão do que o método de Euler.
+
+### 13. Regra do Trapézio 📊
+
+Método simples para aproximação de integrais, calculando a área sob a curva como uma série de trapézios.
+
+### 14. Regras de Simpson 1/3 e 3/8 📉
+
+Métodos de integração numérica que oferecem maior precisão ao usar polinômios de grau 2 e 3, respectivamente.
 
 ## Instalação e Uso
 
