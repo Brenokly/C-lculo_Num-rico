@@ -9,7 +9,6 @@ Este repositório contém implementações de métodos numéricos para resolver 
 
 ## Conteúdo Programáticoa
 
-```markdown
 # Cálculo Numérico 📊
 
 ## Sobre o Projeto
