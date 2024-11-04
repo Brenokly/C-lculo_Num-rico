@@ -1,5 +1,3 @@
-# Cálculo Numérico 📊
-
 ## Disciplina: Calculo Númerico 📊
 ### Curso: Ciência da Computação 💻
 ### Universidade: Ufersa - Universidade Federal Rural do Semi-Árido 🌱
