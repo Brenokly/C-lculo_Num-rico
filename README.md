@@ -5,14 +5,6 @@
 
 ## Sobre o Projeto
 
-Este repositório contém implementações de métodos numéricos para resolver problemas matemáticos e de engenharia/computação. Os métodos abordados são amplamente utilizados na resolução de problemas complexos, proporcionando soluções precisas e eficientes. Cada unidade do curso é representada por um pacote separado, facilitando a organização e o entendimento das diferentes abordagens numéricas.
-
-## Conteúdo Programáticoa
-
-# Cálculo Numérico 📊
-
-## Sobre o Projeto
-
 Bem-vindo ao repositório **Cálculo Numérico**! Este espaço contém implementações de métodos numéricos utilizados para resolver problemas em matemática e engenharia/computação. Os métodos abordados são amplamente utilizados na resolução de problemas complexos, proporcionando soluções precisas e eficientes. Cada unidade do curso é representada por um pacote separado, facilitando a organização e o entendimento das diferentes abordagens numéricas.
 
 ## Conteúdo Programático 📚
