@@ -60,7 +60,7 @@ Para utilizar os métodos, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Cálculo_Numérico.git
+   https://github.com/Brenokly/Calculo_Numerico.git
    ```
 
 2. Navegue até o diretório do projeto:
