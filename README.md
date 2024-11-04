@@ -7,7 +7,7 @@
 
 Este repositório contém implementações de métodos numéricos para resolver problemas matemáticos e de engenharia/computação. Os métodos abordados são amplamente utilizados na resolução de problemas complexos, proporcionando soluções precisas e eficientes. Cada unidade do curso é representada por um pacote separado, facilitando a organização e o entendimento das diferentes abordagens numéricas.
 
-## Conteúdo ProgramáticoaClaro! Aqui está uma versão melhorada do seu README, com formatação aprimorada, emojis mais relevantes e uma organização que facilita a leitura:
+## Conteúdo Programáticoa
 
 ```markdown
 # Cálculo Numérico 📊
